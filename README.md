@@ -18,4 +18,3 @@
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)" />
    <img align="center" alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
 </div><br/>
-https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white
