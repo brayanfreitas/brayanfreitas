@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Atualmente tabalho microsserviços, usando NestJS
+- 🔭 Atualmente trabalho com microsserviços usando NestJS
 - 🌱 Atualmente aprendendo ReactJS
 
 <div align="center">
