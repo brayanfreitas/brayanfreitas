@@ -6,4 +6,7 @@
 <div align="center">
   <a href="https://github.com/brayanfreitas">
 </div>
+  
+![Brayan GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brayanfreitas&&show_icons=true&theme=dark)
+  
 
